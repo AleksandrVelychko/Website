@@ -1,0 +1,40 @@
+.title {
+  height: 35px;
+  font-family: "Times New Roman", serif;
+  font-size: 30px;
+  text-align: center;
+  background: #dc143c;
+  color: azure;
+  margin: 20px auto;
+}
+
+.container {
+  width: 1100px;
+  padding: 0 80px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.img {
+  width: auto;
+  margin: 0 auto;
+}
+
+.block {
+  width: auto; 
+  margin: 0 auto;
+  }
+
+.cars {
+  border: 2px dashed;
+}
+
+.text{
+  text-align: left;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
